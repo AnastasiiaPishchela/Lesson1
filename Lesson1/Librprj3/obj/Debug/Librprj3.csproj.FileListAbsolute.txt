@@ -1,0 +1,6 @@
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\bin\Debug\Librprj3.dll
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\bin\Debug\Librprj3.pdb
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\obj\Debug\Librprj3.csprojAssemblyReference.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\obj\Debug\Librprj3.csproj.CoreCompileInputs.cache
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\obj\Debug\Librprj3.dll
+C:\Users\leem0\Documents\test_avtomation_summer2019\DotNetTests\DotNetLesson1Test\Lesson1\Librprj3\obj\Debug\Librprj3.pdb
